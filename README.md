@@ -1,5 +1,7 @@
 # Tema_3_Condicionales
 
+# Repositorio: https://github.com/DiegoCG1013/Tema_3_Condicionales.git
+
 ## Ejercicios
 ### 1. El tiempo
 > Escriba un algoritmo que muestre "riesgo de hielo", si la temperatura introducida es inferior a 2°C.
